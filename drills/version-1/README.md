@@ -12,4 +12,4 @@ constraints:
 
 ![](img/layout.png)
 
-Note: This wireframe was inspired by [Hydeout Jekyll Theme](https://fongandrew.github.io/hydeout/)
+
