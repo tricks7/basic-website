@@ -1,24 +1,28 @@
-.HolyGrail {
+.blog {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
 }
 
-.HolyGrail-body {
+.blog-body {
   display: flex;
   flex: 1;
 }
 
-.HolyGrail-content {
+.blog-content {
   flex: 1;
 }
 
-.HolyGrail-nav, .HolyGrail-ads {
+.blog-nav, .blog-ads {
   /* 12em is the width of the columns */
   flex: 0 0 12em;
 }
 
-.HolyGrail-nav {
+.blog-nav {
   /* put the nav on the left */
   order: -1;
+}
+
+main {
+  padding: 50px;
 }
