@@ -1,6 +1,6 @@
 # Simple Site 1
 
-For this drill, you will create a landing page for a company/business of your choice, real or imaginary. Create your `index.html` and `styles.css` files in this, the version-1 directory. 
+For this drill, you will create a landing page for a company/business of your choice, real or imaginary. Write your code in the  `index.html` and `main.css` files in this directory.
 
 Create the landing page from the screenshot below, given the following
 constraints:
