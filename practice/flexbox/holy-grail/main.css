@@ -1,0 +1,53 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+p {
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+header, footer {
+  background: #DDD;
+}
+
+main {
+  display: flex;
+  flex: 1;
+}
+
+.content {
+  background: #2D2D2D;
+  color: white;
+  flex: 1;
+}
+
+.left-sidebar, .right-sidebar {
+  background: #AAAAAA;
+  /*flex: 1;*/
+  flex: 0 0 15rem;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+  main {
+    flex-direction: column;
+  }
+
+  .left-sidebar, .right-sidebar {
+    flex: 0 0 auto;
+    order: 0;
+  }
+
+  .content {
+    order: 1;
+  }
+}
