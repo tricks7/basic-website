@@ -13,7 +13,7 @@ h1 {
   font-weight: 700;
 }
 
-h2  {
+h2 {
   font-size: 2em;
 }
 
@@ -46,7 +46,7 @@ h2  {
   flex: 0 0 23em;
   /* put the nav on the left */
   order: -1;
-  padding-top: 30px ;
+  padding-top: 30px;
   background-color: hsla(40, 2%, 50%, 0.5);
   box-sizing: border-box;
   justify-content: center;
@@ -59,6 +59,7 @@ h2  {
 .blog-nav img {
   align-self: center;
 }
+
 .blog-nav ul {
   display: inline;
   list-style: none;
