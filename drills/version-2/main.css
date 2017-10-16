@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700');
 
+body {
+  margin: 0;
+}
+
 main {
   padding: 100px;
 }
@@ -35,13 +39,29 @@ h2  {
 }
 
 .blog-nav {
-  /* 20em is the width of the column */
+  display: flex;
+  flex-direction: column;
+  /* 23em is the width of the column */
   flex: 0 0 23em;
   /* put the nav on the left */
   order: -1;
-  padding: 10px;
+  padding-top: 30px ;
   background-color: hsla(40, 2%, 50%, 0.5);
+  box-sizing: border-box;
+  justify-content: center;
 }
+
+.blog-nav-content {
+  margin: 0 auto auto;
+}
+
+.blog-nav img {
+  align-self: center;
+}
+
+/*.blog-nav h1 {
+  text-align: center;
+}*/
 
 .blog-avatar {
   /* 10em is the width of the column */
