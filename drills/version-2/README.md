@@ -1,6 +1,6 @@
 # Simple Site 2
 
-For this drill, you will create a blog.
+For this drill, you will create a landing page for a blog. Create your `index.html` and `styles.css` files in this, the version-2 directory.
 
 Create the blog's landing page from the screenshot below, given the following
 constraints:

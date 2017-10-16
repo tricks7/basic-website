@@ -1,6 +1,6 @@
 # Simple Site 3
 
-For this drill, you will multi-page website for a restaurant.
+For this drill, you will multi-page website for a restaurant. Create your `index.html` and `styles.css` files in this, the version-3 directory. 
 
 Create the two pages  from the screenshots below, given the following
 constraints:
