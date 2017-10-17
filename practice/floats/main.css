@@ -1,0 +1,53 @@
+  /* Resets */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* Global styles */
+
+body {
+  font-family: palatino, serif;
+}
+
+/* Features and benefits */
+.feature-benefits {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-bottom: 2rem;
+}
+.feature-benefits > li {
+    max-width: 23rem;
+}
+.feature-benefits > li figure {
+    float: left;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border: 8px double hsl(0, 0%, 50%);
+}
+.feature-benefits > li figure img {
+    vertical-align: middle;
+}
+.feature-benefits h2 {
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+.feature-benefits .read-more {
+    margin-top: 1rem;
+    text-align: right;
+    font-weight: 700;
+}
+.feature-benefits .read-more a, .feature-benefits .read-more {
+    color: hsl(30, 80%, 50%);
+}
+.feature-benefits .read-more::after {
+    content: " \00bb"
+}
