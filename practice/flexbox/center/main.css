@@ -1,0 +1,12 @@
+.container {
+  display: flex; /* This is actually all you need! */
+  height: 100vh;
+}
+
+.box {
+  background: #2d2d2d;
+  color: white;
+  margin: auto; /* This is actually all you need! */
+  padding: 25px;
+  width: 50%;
+}
