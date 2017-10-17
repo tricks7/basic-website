@@ -1,8 +1,8 @@
 # Simple Site 3
 
-For this drill, you will multi-page website for a restaurant. Write your code in the  `index.html` and `main.css` files in this directory. 
+For this drill, you will multi-page website for a restaurant. Write your code in the  `index.html` and `main.css` files in this directory.
 
-Create the two pages  from the screenshots below, given the following
+Create the two pages from the screenshots below, given the following
 constraints:
 
 * The layout should be done with floats or flex-box.
