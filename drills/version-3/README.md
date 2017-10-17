@@ -1,6 +1,10 @@
 # Simple Site 3
 
+<<<<<<< HEAD
 For this drill, you will multi-page website for a restaurant. Write your code in the  `index.html` and `main.css` files in this directory. 
+=======
+For this drill, you will create a landing page for a company/business of your choice, real or imaginary. Write your code in the `index.html` and `main.css` files in this directory.
+>>>>>>> 0ffa3792e05b62ba8a83ea0d741c4e162a147165
 
 Create the two pages  from the screenshots below, given the following
 constraints:
