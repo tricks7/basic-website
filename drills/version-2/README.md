@@ -1,10 +1,6 @@
 # Simple Site 2
 
-<<<<<<< HEAD
-For this drill, you will create a landing page for a blog. Write your code in the  `index.html` and `main.css` files in this directory.
-=======
 For this drill, you will create a landing page for a blog.  Write your code in the  `index.html` and `main.css` files in this directory.
->>>>>>> 0ffa3792e05b62ba8a83ea0d741c4e162a147165
 
 Create the blog's landing page from the screenshot below, given the following constraints:
 
