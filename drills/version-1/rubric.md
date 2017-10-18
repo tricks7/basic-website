@@ -1,16 +1,16 @@
 Your code and webpage should include the following:
 
-### HTML
+## HTML
 - [ ] Uses semantic HTML
 - [ ] Demonstrates proper indentation
 - [ ] Passes W3C HTML validation
 
-### CSS
+## CSS
 - [ ] CSS files are properly linked
 - [ ] Properly add style tags to elements
 - [ ] Passes W3C CSS validation
 
-### Visual
+## Visual
 - [ ] A header at the top of the page with:
     - [ ] A left-aligned brand name  
     - [ ] A left-aligned slogan and/or tagline
