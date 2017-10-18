@@ -63,11 +63,11 @@ h2 {
 .blog-nav ul {
   display: inline;
   list-style: none;
-  line-height: 1em;
 }
 
 .blog-nav a {
   text-decoration: none;
+  line-height: 2em;
   font-weight: 700;
   color: inherit;
 }
