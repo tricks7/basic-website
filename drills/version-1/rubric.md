@@ -1,4 +1,4 @@
-Your webpage should include the following:
+Your code and webpage should include the following:
 
 ### HTML
 - [ ] Uses semantic HTML
@@ -9,7 +9,6 @@ Your webpage should include the following:
 - [ ] CSS files are properly linked
 - [ ] Properly add style tags to elements
 - [ ] Passes W3C CSS validation
-
 
 ### Visual
 - [ ] A header at the top of the page with:
@@ -25,5 +24,5 @@ Your webpage should include the following:
         - [ ] A left-aligned image
         - [ ] Text that floats to the right the image
         - [ ] An anchor tag with no text-decoration
-- [ ] A footer with text that describes copywrite, license and domain name
+- [ ] A footer with text that includes the copywrite, license and domain name
     - The text has the same margin as the main section
