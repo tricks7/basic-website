@@ -19,7 +19,7 @@ Your code and webpage should include the following:
       - [ ] Navigation with 3 anchor tags
       - [ ] A footer with text that includes the copywrite and  license
 - [ ] A main section with:
-  - A heading
-  - A date
-  - Two paragraphs with a heading and text
+  - [ ] A heading
+  - [ ] A date
+  - [ ] Two paragraphs with a heading and text
 - [ ] An avatar image that at the top right of the page   
