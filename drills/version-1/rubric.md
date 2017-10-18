@@ -25,4 +25,4 @@ Your code and webpage should include the following:
         - [ ] Text that floats to the right the image
         - [ ] An anchor tag with no text-decoration
 - [ ] A footer with text that includes the copywrite, license and domain name
-    - The text has the same margin as the main section
+    - [ ] The text has the same margin as the main section
