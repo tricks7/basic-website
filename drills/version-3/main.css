@@ -31,7 +31,7 @@ html {
 
 body {
   margin: 0;
-  min-height: 100%;
+  min-height: 100vh;
   font-family: Arial, sans-serif;
   display: flex;
   flex-direction: column;
@@ -96,6 +96,23 @@ body {
 
 .info-bar {
   background-color: tan;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+}
+.info-bar__item {
+  flex-basis: 25%;
+  flex-grow: 0;
+}
+.info-bar__item h2 {
+  margin-top: 0;
+}
+
+.insta-group {
+  margin-left: auto;
+}
+.insta-pic {
+  max-width: 100px;
 }
 
 
