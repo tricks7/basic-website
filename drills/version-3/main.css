@@ -1,1 +1,142 @@
 
+<<<<<<< HEAD
+=======
+html {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header {
+  display: flex;
+  padding: 0 1em;
+}
+.site-header__title {
+
+}
+
+.site-nav--main {
+  display: flex;
+  margin: auto 0 auto auto;
+}
+.site-nav--main a {
+  display: block;
+  padding: 0.5em 1em;
+}
+
+.site-content {
+
+}
+.site-content__header {
+  display: flex;
+  padding: 1em;
+  background-color: tomato;
+  color: white;
+}
+.site-content__header-title {
+  margin: auto;
+}
+.site-content--banner .site-content__header {
+  background-image: url(https://images.unsplash.com/photo-1466814314367-45323ac74e2b?dpr=1&auto=format&fit=crop&w=2644&h=&q=60&cs=tinysrgb&crop=);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 50vh;
+  flex-direction: column;
+  text-align: center;
+  padding-right: 50vw;
+}
+.site-content--banner .site-content__header-title {
+  font-weight: normal;
+}
+.site-content--banner .button {
+  margin: 1em auto;
+  font-size: 1.6em;
+  width: 40%;
+}
+
+
+.button {
+  display: block;
+  background-color: tomato;
+  color: white;
+  border-radius: 0.5em;
+  text-decoration: none;
+  padding: 0.5em 1em;
+}
+
+.info-bar {
+  background-color: tan;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+}
+.info-bar__item {
+  flex-basis: 25%;
+  flex-grow: 0;
+}
+.info-bar__item h2 {
+  margin-top: 0;
+}
+
+.insta-group {
+  margin-left: auto;
+}
+.insta-pic {
+  max-width: 100px;
+}
+
+
+.food-item-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 0 20%;
+}
+.food-item {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 25%;
+  margin: 0 10%;
+}
+.food-item__title {
+  display: flex;
+  margin-bottom: 0;
+}
+.food-item__price {
+  margin-left: auto;
+}
+.food-item__description {
+  margin-top: 0;
+}
+
+
+.site-footer {
+  display: flex;
+  margin-top: auto;
+  padding: 0 1em;
+  background-color: tomato;
+  color: white;
+}
+.site-nav--social {
+  margin: auto 0 auto auto;
+}
+.site-nav--social a {
+  display: inline-block;
+  margin: 0.5em;
+  text-decoration: none;
+  color: white;
+}
+
+._hidden {
+  display: none;
+}
+._uppercased {
+  text-transform: uppercase;
+}
+>>>>>>> 8487e19b46e6ec13cad45f7a9cacc00c2e5831ae
