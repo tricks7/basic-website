@@ -13,7 +13,7 @@ Your code and webpage should include the following:
 ## Visual
 - [ ] A prominent navigation area on the left of the page with:
     - [ ] An image that is centered inside the left nav
-    - [ ] The following text that is centered and left-aligned inside of the left nav bar
+    - [ ] The following elements should be centered in the nav bar and their text should be left-aligned
       - [ ] Blog Name
       - [ ] A subheading
       - [ ] Navigation with 3 anchor tags
@@ -22,4 +22,4 @@ Your code and webpage should include the following:
   - [ ] A heading
   - [ ] A date
   - [ ] Two paragraphs with a heading and text
-- [ ] An avatar image that at the top right of the page   
+- [ ] An avatar image at the top right of the page   
