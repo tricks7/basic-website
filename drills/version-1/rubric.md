@@ -17,7 +17,7 @@ Your code and webpage should include the following:
     - [ ] A right-aligned navigation with 5 anchor tags
     - [ ] The brand name and navigation have the same left and right margins as the main section
 - [ ] A main section with:
-    - [ ] Margins that are larger than the header and footer
+    - [ ] Margins are the same as the header and footer
     - [ ] A hero image and placeholder image that are in the same height and in one row
     - [ ] Three columns that each include:
         - [ ] A heading
