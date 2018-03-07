@@ -30,7 +30,7 @@ Your code and webpage should include the following:
     - [ ] A left-aligned brand name  
     - [ ] A right-aligned navigation with 5 anchor tags
 - [ ] A main section with:
-    - [ ] Two columns that include foot items, their descriptions and prices
+    - [ ] Two columns that include food items, their descriptions and prices
 - [ ] A footer that includes:
     - [ ] Left-aligned copywrite information
     - [ ] Right-aligned social-media logos
