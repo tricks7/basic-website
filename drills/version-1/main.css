@@ -1,1 +1,90 @@
+body {
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
 
+main {
+background-color: white;
+}
+
+header, main, footer {
+    padding: 30px;
+}
+
+header, footer { 
+    background-color: #696969;
+    color: whitesmoke;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo h1 {
+    font-size: 3rem;
+    font-weight: 300;
+    margin: 40px;
+}
+
+.logo p {
+    font-size: 24px;
+    margin: 40px;
+}
+
+nav ul {
+    background-color: #404040;
+    margin: 40px;
+}
+
+nav ul li {
+    padding: 1.5rem;
+    display: inline-block;
+    text-align: center;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.web-images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 40px;
+    min-height: 400px;
+    min-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+
+.bottom-articles {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-bottom: 15px;
+    color: #404040
+}
+
+.bottom-articles > li {
+    max-width: 350px;
+    margin: auto;
+}
+
+.bottom-articles > h2 {
+font-size: 24px;
+text-transform: uppercase;
+margin-bottom: 40px;
+}
+
+.bottom-articles > li figure {
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    }
+
+.bottom-articles > li figure img {
+    vertical-align: middle;
+    border: double;
+}
