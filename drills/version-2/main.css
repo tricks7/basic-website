@@ -1,1 +1,65 @@
+.blog {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    font-family: 'Nanum Myeongjo', serif;
+    padding: 20px;
+}
+
+.blog-body {
+    display: flex;
+    flex: 1;
+    background-color: white;
+}
+
+.blog-content {
+    display: flex;
+    flex: 1;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    order: -1;    
+    justify-content: center;
+    background-color: black
+    
+}
+
+.list {
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav img {
+    padding: 30px;
+}
+
+.avatar img {
+    max-width: 100px;
+    padding: 10px;
+}
+
+h2, time, h3, p {
+    margin: 20px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.bold, h1 {
+    -webkit-text-fill-color: aliceblue;
+    padding: 30px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+footer {
+    -webkit-text-fill-color: aliceblue;
+    padding: 30px;
+}
 
